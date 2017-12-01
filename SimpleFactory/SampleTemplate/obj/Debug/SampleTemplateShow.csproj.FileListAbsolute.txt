@@ -1,0 +1,5 @@
+F:\C#_Design Patterns\SimpleFactory\SampleTemplate\bin\Debug\SampleTemplate.exe.config
+F:\C#_Design Patterns\SimpleFactory\SampleTemplate\bin\Debug\SampleTemplate.exe
+F:\C#_Design Patterns\SimpleFactory\SampleTemplate\bin\Debug\SampleTemplate.pdb
+F:\C#_Design Patterns\SimpleFactory\SampleTemplate\obj\Debug\SampleTemplate.exe
+F:\C#_Design Patterns\SimpleFactory\SampleTemplate\obj\Debug\SampleTemplate.pdb
