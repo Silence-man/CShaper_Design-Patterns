@@ -1,0 +1,6 @@
+F:\C#_Design Patterns\Builder\BuilderSample\bin\Debug\BuilderSample.exe.config
+F:\C#_Design Patterns\Builder\BuilderSample\bin\Debug\BuilderSample.exe
+F:\C#_Design Patterns\Builder\BuilderSample\bin\Debug\BuilderSample.pdb
+F:\C#_Design Patterns\Builder\BuilderSample\obj\Debug\BuilderSample.csprojResolveAssemblyReference.cache
+F:\C#_Design Patterns\Builder\BuilderSample\obj\Debug\BuilderSample.exe
+F:\C#_Design Patterns\Builder\BuilderSample\obj\Debug\BuilderSample.pdb

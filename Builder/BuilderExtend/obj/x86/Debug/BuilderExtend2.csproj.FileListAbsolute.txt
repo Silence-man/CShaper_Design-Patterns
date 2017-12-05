@@ -1,0 +1,3 @@
+F:\C#_Design Patterns\Builder\BuilderExtend\bin\Debug\BuilderExtend.exe.config
+F:\C#_Design Patterns\Builder\BuilderExtend\obj\x86\Debug\BuilderExtend.exe
+F:\C#_Design Patterns\Builder\BuilderExtend\obj\x86\Debug\BuilderExtend.pdb

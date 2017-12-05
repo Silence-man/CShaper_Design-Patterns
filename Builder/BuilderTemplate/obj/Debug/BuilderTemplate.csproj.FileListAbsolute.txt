@@ -1,0 +1,6 @@
+F:\C#_Design Patterns\Builder\BuilderTemplate\bin\Debug\BuilderTemplate.exe.config
+F:\C#_Design Patterns\Builder\BuilderTemplate\bin\Debug\BuilderTemplate.exe
+F:\C#_Design Patterns\Builder\BuilderTemplate\bin\Debug\BuilderTemplate.pdb
+F:\C#_Design Patterns\Builder\BuilderTemplate\obj\Debug\BuilderTemplate.csprojResolveAssemblyReference.cache
+F:\C#_Design Patterns\Builder\BuilderTemplate\obj\Debug\BuilderTemplate.exe
+F:\C#_Design Patterns\Builder\BuilderTemplate\obj\Debug\BuilderTemplate.pdb

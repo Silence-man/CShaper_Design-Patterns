@@ -1,0 +1,23 @@
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\BuilderExtend\bin\Debug\BuilderExtend.exe.config
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\BuilderExtend\bin\Debug\BuilderExtend.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\BuilderExtend\bin\Debug\BuilderExtend.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\BuilderExtend\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\BuilderExtend\obj\x86\Debug\BuilderExtend.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\BuilderExtend\obj\x86\Debug\BuilderExtend.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\BuilderExtend\bin\Debug\BuilderExtend.exe.config
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\BuilderExtend\obj\x86\Debug\BuilderExtend.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\BuilderExtend\obj\x86\Debug\BuilderExtend.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\BuilderExtend\bin\Debug\BuilderExtend.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\BuilderExtend\bin\Debug\BuilderExtend.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\BuilderExtend\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\BuilderExtend\bin\Debug\BuilderExtend.exe.config
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\BuilderExtend\bin\Debug\BuilderExtend.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\BuilderExtend\bin\Debug\BuilderExtend.pdb
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\BuilderExtend\obj\x86\Debug\BuilderExtend.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\BuilderExtend\obj\x86\Debug\BuilderExtend.pdb
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\BuilderExtend\bin\Debug\BuilderExtend.exe.config
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\BuilderExtend\obj\x86\Debug\BuilderExtend.exe
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\BuilderExtend\obj\x86\Debug\BuilderExtend.pdb
+F:\C#_Design Patterns\Builder\BuilderExtend\bin\Debug\BuilderExtend.exe.config
+F:\C#_Design Patterns\Builder\BuilderExtend\obj\x86\Debug\BuilderExtend.exe
+F:\C#_Design Patterns\Builder\BuilderExtend\obj\x86\Debug\BuilderExtend.pdb
