@@ -1,0 +1,6 @@
+F:\C#_Design Patterns\Prototype\ShallowClone\bin\Debug\ShallowClone.exe.config
+F:\C#_Design Patterns\Prototype\ShallowClone\bin\Debug\ShallowClone.exe
+F:\C#_Design Patterns\Prototype\ShallowClone\bin\Debug\ShallowClone.pdb
+F:\C#_Design Patterns\Prototype\ShallowClone\obj\Debug\ShallowClone.csprojResolveAssemblyReference.cache
+F:\C#_Design Patterns\Prototype\ShallowClone\obj\Debug\ShallowClone.exe
+F:\C#_Design Patterns\Prototype\ShallowClone\obj\Debug\ShallowClone.pdb

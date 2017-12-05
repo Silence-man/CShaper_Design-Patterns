@@ -1,0 +1,6 @@
+F:\C#_Design Patterns\Prototype\Deep Clone\bin\Debug\Deep Clone.exe.config
+F:\C#_Design Patterns\Prototype\Deep Clone\bin\Debug\Deep Clone.exe
+F:\C#_Design Patterns\Prototype\Deep Clone\bin\Debug\Deep Clone.pdb
+F:\C#_Design Patterns\Prototype\Deep Clone\obj\Debug\Deep Clone1.csprojResolveAssemblyReference.cache
+F:\C#_Design Patterns\Prototype\Deep Clone\obj\Debug\Deep Clone.exe
+F:\C#_Design Patterns\Prototype\Deep Clone\obj\Debug\Deep Clone.pdb

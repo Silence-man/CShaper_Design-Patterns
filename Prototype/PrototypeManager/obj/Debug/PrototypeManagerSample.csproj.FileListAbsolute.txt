@@ -1,0 +1,6 @@
+F:\C#_Design Patterns\Prototype\PrototypeManager\obj\Debug\PrototypeManagerSample.csprojResolveAssemblyReference.cache
+F:\C#_Design Patterns\Prototype\PrototypeManager\bin\Debug\PrototypeManager.exe.config
+F:\C#_Design Patterns\Prototype\PrototypeManager\bin\Debug\PrototypeManager.exe
+F:\C#_Design Patterns\Prototype\PrototypeManager\bin\Debug\PrototypeManager.pdb
+F:\C#_Design Patterns\Prototype\PrototypeManager\obj\Debug\PrototypeManager.exe
+F:\C#_Design Patterns\Prototype\PrototypeManager\obj\Debug\PrototypeManager.pdb
