@@ -1,0 +1,5 @@
+F:\C#_Design Patterns\Facade\AbstractFacade\bin\Debug\AbstractFacade.exe.config
+F:\C#_Design Patterns\Facade\AbstractFacade\bin\Debug\AbstractFacade.exe
+F:\C#_Design Patterns\Facade\AbstractFacade\bin\Debug\AbstractFacade.pdb
+F:\C#_Design Patterns\Facade\AbstractFacade\obj\Debug\AbstractFacade.exe
+F:\C#_Design Patterns\Facade\AbstractFacade\obj\Debug\AbstractFacade.pdb

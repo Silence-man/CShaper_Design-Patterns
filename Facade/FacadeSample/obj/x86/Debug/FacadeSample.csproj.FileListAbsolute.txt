@@ -1,0 +1,25 @@
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\FacadeSample\bin\Debug\FacadeSample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\FacadeSample\bin\Debug\FacadeSample.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\FacadeSample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\FacadeSample\obj\x86\Debug\FacadeSample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\FacadeSample\obj\x86\Debug\FacadeSample.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\FacadeSample\bin\Debug\FacadeSample.exe.config
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\FacadeSample\bin\Debug\FacadeSample.exe.config
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\FacadeSample\obj\x86\Debug\FacadeSample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\FacadeSample\obj\x86\Debug\FacadeSample.pdb
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\FacadeSample\bin\Debug\FacadeSample.exe.config
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\FacadeSample\bin\Debug\FacadeSample.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\FacadeSample\bin\Debug\FacadeSample.pdb
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\FacadeSample\obj\x86\Debug\FacadeSample.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\FacadeSample\obj\x86\Debug\FacadeSample.pdb
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\FacadeSample\bin\Debug\FacadeSample.exe.config
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\FacadeSample\obj\x86\Debug\FacadeSample.exe
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\FacadeSample\obj\x86\Debug\FacadeSample.pdb
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\FacadeSample\bin\Debug\FacadeSample.exe
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\FacadeSample\bin\Debug\FacadeSample.pdb
+F:\C#_Design Patterns\Facade\FacadeSample\bin\Debug\FacadeSample.exe.config
+F:\C#_Design Patterns\Facade\FacadeSample\obj\x86\Debug\FacadeSample.exe
+F:\C#_Design Patterns\Facade\FacadeSample\obj\x86\Debug\FacadeSample.pdb
+F:\C#_Design Patterns\Facade\FacadeSample\bin\Debug\FacadeSample.exe
+F:\C#_Design Patterns\Facade\FacadeSample\bin\Debug\FacadeSample.pdb
+F:\C#_Design Patterns\Facade\FacadeSample\obj\x86\Debug\FacadeSample.csprojResolveAssemblyReference.cache
