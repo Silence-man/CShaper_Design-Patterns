@@ -1,0 +1,6 @@
+F:\C#_Design Patterns\Bridge\Bridge\bin\Debug\Bridge.exe.config
+F:\C#_Design Patterns\Bridge\Bridge\bin\Debug\Bridge.exe
+F:\C#_Design Patterns\Bridge\Bridge\bin\Debug\Bridge.pdb
+F:\C#_Design Patterns\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+F:\C#_Design Patterns\Bridge\Bridge\obj\Debug\Bridge.exe
+F:\C#_Design Patterns\Bridge\Bridge\obj\Debug\Bridge.pdb
