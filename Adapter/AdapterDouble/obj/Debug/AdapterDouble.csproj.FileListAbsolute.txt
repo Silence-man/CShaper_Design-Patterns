@@ -1,0 +1,6 @@
+F:\C#_Design Patterns\Adapter\AdapterDouble\bin\Debug\AdapterDouble.exe.config
+F:\C#_Design Patterns\Adapter\AdapterDouble\bin\Debug\AdapterDouble.exe
+F:\C#_Design Patterns\Adapter\AdapterDouble\bin\Debug\AdapterDouble.pdb
+F:\C#_Design Patterns\Adapter\AdapterDouble\obj\Debug\AdapterDouble.csprojResolveAssemblyReference.cache
+F:\C#_Design Patterns\Adapter\AdapterDouble\obj\Debug\AdapterDouble.exe
+F:\C#_Design Patterns\Adapter\AdapterDouble\obj\Debug\AdapterDouble.pdb
