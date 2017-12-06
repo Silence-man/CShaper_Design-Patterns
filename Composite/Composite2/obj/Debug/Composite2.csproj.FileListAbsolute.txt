@@ -1,0 +1,5 @@
+F:\C#_Design Patterns\Composite\Composite2\bin\Debug\Composite.exe.config
+F:\C#_Design Patterns\Composite\Composite2\obj\Debug\Composite.exe
+F:\C#_Design Patterns\Composite\Composite2\obj\Debug\Composite.pdb
+F:\C#_Design Patterns\Composite\Composite2\bin\Debug\Composite.exe
+F:\C#_Design Patterns\Composite\Composite2\bin\Debug\Composite.pdb

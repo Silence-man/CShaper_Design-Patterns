@@ -1,0 +1,5 @@
+F:\C#_Design Patterns\Composite\Preliminary\bin\Debug\Preliminary.exe.config
+F:\C#_Design Patterns\Composite\Preliminary\bin\Debug\Preliminary.exe
+F:\C#_Design Patterns\Composite\Preliminary\bin\Debug\Preliminary.pdb
+F:\C#_Design Patterns\Composite\Preliminary\obj\Debug\Preliminary.exe
+F:\C#_Design Patterns\Composite\Preliminary\obj\Debug\Preliminary.pdb
