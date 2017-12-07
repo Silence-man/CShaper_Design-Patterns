@@ -1,0 +1,20 @@
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\ProxySample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\ProxySample\bin\Debug\ProxySample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\ProxySample\bin\Debug\ProxySample.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\ProxySample\obj\x86\Debug\ProxySample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\ProxySample\obj\x86\Debug\ProxySample.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\ProxySample\bin\Debug\ProxySample.exe.config
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\ProxySample\bin\Debug\ProxySample.exe.config
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\ProxySample\obj\x86\Debug\ProxySample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\ProxySample\obj\x86\Debug\ProxySample.pdb
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\ProxySample\bin\Debug\ProxySample.exe.config
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\ProxySample\bin\Debug\ProxySample.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\ProxySample\bin\Debug\ProxySample.pdb
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\ProxySample\obj\x86\Debug\ProxySample.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\ProxySample\obj\x86\Debug\ProxySample.pdb
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\ProxySample\bin\Debug\ProxySample.exe.config
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\ProxySample\obj\x86\Debug\ProxySample.exe
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\ProxySample\obj\x86\Debug\ProxySample.pdb
+F:\C#_Design Patterns\Proxy\ProxySample\bin\Debug\ProxySample.exe.config
+F:\C#_Design Patterns\Proxy\ProxySample\obj\x86\Debug\ProxySample.exe
+F:\C#_Design Patterns\Proxy\ProxySample\obj\x86\Debug\ProxySample.pdb
