@@ -1,0 +1,6 @@
+F:\C#_Design Patterns\Decorater\DecoratorTranslucent\bin\Debug\DecoratorTranslucent.exe.config
+F:\C#_Design Patterns\Decorater\DecoratorTranslucent\bin\Debug\DecoratorTranslucent.exe
+F:\C#_Design Patterns\Decorater\DecoratorTranslucent\bin\Debug\DecoratorTranslucent.pdb
+F:\C#_Design Patterns\Decorater\DecoratorTranslucent\obj\Debug\DecoratorTranslucent.csprojResolveAssemblyReference.cache
+F:\C#_Design Patterns\Decorater\DecoratorTranslucent\obj\Debug\DecoratorTranslucent.exe
+F:\C#_Design Patterns\Decorater\DecoratorTranslucent\obj\Debug\DecoratorTranslucent.pdb
