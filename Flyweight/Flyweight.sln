@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{0CE4E446-1BD3-4938-86F9-7516C1CF0FDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightSample", "FlyweightSample\FlyweightSample.csproj", "{1E22B6C0-6658-4FC9-A60B-C115D2C7290B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE4E446-1BD3-4938-86F9-7516C1CF0FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE4E446-1BD3-4938-86F9-7516C1CF0FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE4E446-1BD3-4938-86F9-7516C1CF0FDC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0CE4E446-1BD3-4938-86F9-7516C1CF0FDC}.Debug|x86.Build.0 = Debug|Any CPU
+		{0CE4E446-1BD3-4938-86F9-7516C1CF0FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE4E446-1BD3-4938-86F9-7516C1CF0FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE4E446-1BD3-4938-86F9-7516C1CF0FDC}.Release|x86.ActiveCfg = Release|Any CPU
+		{0CE4E446-1BD3-4938-86F9-7516C1CF0FDC}.Release|x86.Build.0 = Release|Any CPU
+		{1E22B6C0-6658-4FC9-A60B-C115D2C7290B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1E22B6C0-6658-4FC9-A60B-C115D2C7290B}.Debug|x86.ActiveCfg = Debug|x86
+		{1E22B6C0-6658-4FC9-A60B-C115D2C7290B}.Debug|x86.Build.0 = Debug|x86
+		{1E22B6C0-6658-4FC9-A60B-C115D2C7290B}.Release|Any CPU.ActiveCfg = Release|x86
+		{1E22B6C0-6658-4FC9-A60B-C115D2C7290B}.Release|x86.ActiveCfg = Release|x86
+		{1E22B6C0-6658-4FC9-A60B-C115D2C7290B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
