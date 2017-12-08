@@ -1,0 +1,17 @@
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\CoRSample\bin\Debug\CoRSample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\CoRSample\bin\Debug\CoRSample.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\CoRSample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\CoRSample\obj\x86\Debug\CoRSample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\CoRSample\obj\x86\Debug\CoRSample.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\CoRSample\obj\x86\Debug\CoRSample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\CoRSample\obj\x86\Debug\CoRSample.pdb
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\CoRSample\bin\Debug\CoRSample.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\CoRSample\bin\Debug\CoRSample.pdb
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\CoRSample\obj\x86\Debug\CoRSample.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\CoRSample\obj\x86\Debug\CoRSample.pdb
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\CoRSample\obj\x86\Debug\CoRSample.exe
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\CoRSample\obj\x86\Debug\CoRSample.pdb
+F:\C#_Design Patterns\CoRSample\obj\x86\Debug\CoRSample.exe
+F:\C#_Design Patterns\CoRSample\obj\x86\Debug\CoRSample.pdb
+F:\C#_Design Patterns\CoRSample\bin\Debug\CoRSample.exe
+F:\C#_Design Patterns\CoRSample\bin\Debug\CoRSample.pdb
