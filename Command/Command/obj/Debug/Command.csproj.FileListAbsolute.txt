@@ -1,0 +1,1 @@
+F:\C#_Design Patterns\Command\Command\bin\Debug\Command.exe.config
