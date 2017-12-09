@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverExtend", "ObserverExtend\ObserverExtend.csproj", "{4B0DE91B-6B4C-45A1-BB4D-8CAB3824805F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverSample", "ObserverSample\ObserverSample.csproj", "{DF682386-40F6-4D79-9428-7C077836ED24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0DE91B-6B4C-45A1-BB4D-8CAB3824805F}.Debug|x86.ActiveCfg = Debug|x86
+		{4B0DE91B-6B4C-45A1-BB4D-8CAB3824805F}.Debug|x86.Build.0 = Debug|x86
+		{4B0DE91B-6B4C-45A1-BB4D-8CAB3824805F}.Release|x86.ActiveCfg = Release|x86
+		{4B0DE91B-6B4C-45A1-BB4D-8CAB3824805F}.Release|x86.Build.0 = Release|x86
+		{DF682386-40F6-4D79-9428-7C077836ED24}.Debug|x86.ActiveCfg = Debug|x86
+		{DF682386-40F6-4D79-9428-7C077836ED24}.Debug|x86.Build.0 = Debug|x86
+		{DF682386-40F6-4D79-9428-7C077836ED24}.Release|x86.ActiveCfg = Release|x86
+		{DF682386-40F6-4D79-9428-7C077836ED24}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
