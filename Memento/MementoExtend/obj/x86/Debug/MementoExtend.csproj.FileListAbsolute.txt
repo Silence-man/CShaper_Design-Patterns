@@ -1,0 +1,15 @@
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\MementoExtend\bin\Debug\MementoExtend.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\MementoExtend\bin\Debug\MementoExtend.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\MementoExtend\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\MementoExtend\obj\x86\Debug\MementoExtend.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\MementoExtend\obj\x86\Debug\MementoExtend.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\MementoExtend\obj\x86\Debug\MementoExtend.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\MementoExtend\obj\x86\Debug\MementoExtend.pdb
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\MementoExtend\bin\Debug\MementoExtend.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\MementoExtend\bin\Debug\MementoExtend.pdb
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\MementoExtend\obj\x86\Debug\MementoExtend.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\MementoExtend\obj\x86\Debug\MementoExtend.pdb
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\MementoExtend\obj\x86\Debug\MementoExtend.exe
+F:\设计模式\《C#设计模式》源代码(20130619)\DesignPattern\MementoExtend\obj\x86\Debug\MementoExtend.pdb
+F:\C#_Design Patterns\Memento\MementoExtend\obj\x86\Debug\MementoExtend.exe
+F:\C#_Design Patterns\Memento\MementoExtend\obj\x86\Debug\MementoExtend.pdb
