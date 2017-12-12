@@ -1,0 +1,6 @@
+F:\C#_Design Patterns\State\ContextState\bin\Debug\ContextState.exe.config
+F:\C#_Design Patterns\State\ContextState\bin\Debug\ContextState.exe
+F:\C#_Design Patterns\State\ContextState\bin\Debug\ContextState.pdb
+F:\C#_Design Patterns\State\ContextState\obj\Debug\ContextState.csprojResolveAssemblyReference.cache
+F:\C#_Design Patterns\State\ContextState\obj\Debug\ContextState.exe
+F:\C#_Design Patterns\State\ContextState\obj\Debug\ContextState.pdb
